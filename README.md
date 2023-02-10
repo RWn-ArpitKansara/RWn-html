@@ -22,5 +22,5 @@
   <li> All HTML tags must enclosed within < > these brackets. </li>
   <li> Every tag in HTML perform different tasks. </li>
   <li> If you have used an open tag <tag>, then you must use a close tag  </tag> (except some tags)
-Ex. <p> </p> , <strong> </strong> <li>
+Ex. <p> </p> , <strong> </strong> </li>
   
