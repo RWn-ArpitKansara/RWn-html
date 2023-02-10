@@ -17,4 +17,10 @@
    <li> The <b>body</b> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists,etc.</li>
 </ol>
 
+<h3> Rules for Tags </h3>
+<ul> 
+  <li> All HTML tags must enclosed within < > these brackets. </li>
+  <li> Every tag in HTML perform different tasks. </li>
+  <li> If you have used an open tag <tag>, then you must use a close tag  </tag> (except some tags)
+Ex. <p> </p> , <strong> </strong> <li>
   
